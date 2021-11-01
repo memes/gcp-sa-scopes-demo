@@ -6,12 +6,10 @@
 .terraform
 *.tfstate
 *.tfstate.*
+.terraform.lock.hcl
 
 # Don't include any local automatic variable assignment files
 terraform.tfvars
 terraform.tfvars.json
 *.auto.tfvars
 *.auto.tfvars.json
-
-# Ignore generated binaries in dist
-dist/

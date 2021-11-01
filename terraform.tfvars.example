@@ -1,0 +1,12 @@
+# The GCP project to use.
+project_id = "my-gcp-project-id"
+
+# The region where the VMs will be deployed and a subnet created; VMs will be in
+# zone -a.
+region = "us-west1"
+
+# Applied to all resources that accept labels.
+labels = {
+    owner = "me_at_email_com"
+    purpose = "demo"
+}
