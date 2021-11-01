@@ -1,0 +1,12 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "words": [
+        "yamllint",
+        "markdownlint",
+        "goreleaser"
+    ],
+    "flagWords": [
+        "hte"
+    ]
+}
