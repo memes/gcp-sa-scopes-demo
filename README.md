@@ -171,7 +171,7 @@ scopes = {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_google"></a> [google](#provider\_google) | 3.90.0 |
+| <a name="provider_google"></a> [google](#provider\_google) | ~> 3.90 |
 
 ## Modules
 
